@@ -8,7 +8,7 @@ Monitor and control greenhouse conditions in real-time using Arduino Mega, ESP82
 
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/Smart-Greenhouse-Monitoring-And-Automation-System)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/Smart-Greenhouse-Monitoring-And-Automation-System)
-![Arduino](https://github.com/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-/blob/main/Arduino_Mega_Code/Greenhouse_Mega.ino)
+![Arduino](https://img.shields.io/badge/Arduino-Mega-blue)
 ![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-green)
 ![Blynk](https://img.shields.io/badge/Blynk-IoT-orange)
 
