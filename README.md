@@ -27,7 +27,7 @@ Monitor and control greenhouse conditions in real-time using Arduino Mega, ESP82
 
 ### Wiring Diagram
 
-<img src="Smart_GreenHouse_Circuit_Digram.png" width="900"/>
+<img src="Wiring_Diagram/Smart_GreenHouse_Circuit_Digram.png" width="900"/>
 
 ### Blynk Dashboard
 
