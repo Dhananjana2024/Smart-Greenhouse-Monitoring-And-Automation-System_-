@@ -28,7 +28,7 @@ Monitor and control greenhouse conditions in real-time using Arduino Mega, ESP82
 
 ### Blynk Dashboard
 
-![Dashboard](Images/Blynk_Mobile_Dashboard.jpeg)
+<img src="Images/Blynk_Mobile_Dashboard.jpeg" width="400"/>
 
 ---
 
