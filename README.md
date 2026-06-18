@@ -119,7 +119,4 @@ Smart-Greenhouse-Monitoring-And-Automation-System
 ## 👨‍💻 Developed By
 
 **R.D. Dhananjana Buddhi Prabhat Rajamuni**
-
-Graphic Designer | Website Developer | Software Developer | IoT Enthusiast
-
 ⭐ If you like this project, don't forget to star the repository!
