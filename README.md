@@ -6,11 +6,17 @@
 
 Monitor and control greenhouse conditions in real-time using Arduino Mega, ESP8266 NodeMCU, Blynk IoT, and Smart Sensors.
 
+<div align="center">
+
 [![GitHub stars](https://img.shields.io/github/stars/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-)](https://github.com/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-)
+
 [![GitHub forks](https://img.shields.io/github/forks/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-)](https://github.com/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-)
+
 [![Arduino](https://img.shields.io/badge/Arduino-Mega-blue)](https://github.com/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-/blob/main/Arduino_Mega_Code/Greenhouse_Mega.ino)
+
 [![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-green)](https://github.com/Dhananjana2024/Smart-Greenhouse-Monitoring-And-Automation-System_-/blob/main/ESP8266_Code/Greenhouse_ESP8266.ino)
-[![Blynk](https://img.shields.io/badge/Blynk-IoT-orange)](https://blynk.io/)
+
+</div>
 
 </div>
 
